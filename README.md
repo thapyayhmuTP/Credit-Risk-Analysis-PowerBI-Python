@@ -95,8 +95,8 @@ These assumptions ensured data consistency and alignment with the [UCI Machine L
 This was a team project.
 
 - **I developed all Python visuals and scripts**, implemented **DAX measures**, and selected the **final visual design and analytics techniques** used throughout the report.  
-- **Lhagii** contributed to the design and dashboard visuals, making the interface more visually pleasing.  
-- **Mihir** provided feedback and suggestions to improve the Python visuals and the clarity of the box plot.
+- **One teammate** contributed to the design and dashboard visuals, making the interface more visually pleasing.  
+- **Another Member** provided feedback and suggestions to improve the Python visuals and the clarity of the box plot.
 
 ---
 
@@ -115,6 +115,4 @@ Dataset source:
 
 ---
 
-## Author
 
-Tha Pyay Hmu  
